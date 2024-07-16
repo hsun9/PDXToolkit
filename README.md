@@ -157,5 +157,5 @@ NOTE:Please refer to "example.mgi.gmt.sh"
 
 Contact
 -------
-Hua Sun, <hua.sun@wustl.edu>
+Hua Sun, <hua.sun229@gmail.com> (2017.11 - 2022.3 <hua.sun@wustl.edu>)
 
